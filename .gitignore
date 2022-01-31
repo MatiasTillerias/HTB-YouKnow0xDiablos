@@ -1,0 +1,11 @@
+--2022-01-31 02:07:20--  https://www.toptal.com/developers/gitignore/api/venv
+Resolving www.toptal.com (www.toptal.com)... 2606:4700::6812:1cd5, 2606:4700::6812:1dd5, 104.18.29.213, ...
+Connecting to www.toptal.com (www.toptal.com)|2606:4700::6812:1cd5|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 379 [text/plain]
+Saving to: ‘venv’
+
+     0K                                                       100% 74,5M=0s
+
+2022-01-31 02:07:21 (74,5 MB/s) - ‘venv’ saved [379/379]
+
